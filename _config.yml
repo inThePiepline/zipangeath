@@ -4,3 +4,4 @@ description: "Zipangeath is a fictional planet with its own geography and cultur
 theme: minima
 header_pages:
   - index.md
+favicon_path: "/images/favicon.png"
