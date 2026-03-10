@@ -7,9 +7,9 @@ description: "Zipangeath is a fictional planet with its own geography and cultur
 **Zipangeath is a fictional planet with its own geography and cultures.**
 
 ## The Creation
-* Day 1: In the darkness, we noticed the light.
-* Day 2: We created three spheres.
-* Day 3: We played with the three spheres.
-* Day 4: We planted life in one sphere.
-* Day 5: We released moving life into one sphere.
-* Day 6: The moving life noticed us.
+* Day 1: In the darkness, I noticed the light.
+* Day 2: I created three spheres.
+* Day 3: I played with the three spheres.
+* Day 4: I planted life in one sphere.
+* Day 5: I released moving life into that sphere.
+* Day 6: The moving life noticed me.
